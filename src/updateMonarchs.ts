@@ -49,9 +49,6 @@ async function fetchMonarchs() {
         return;
       }
       const cells = $(row).find("td");
-      console.log(`Row ${rowIndex} has ${cells.length} <td> cells`);
-
-      // const cellsAsArray = (cells.map((i,el) => $(el).text()).toArray())
 
       if (!previousCells || cells.length === previousCells.length) {
         previousCells = cells;
@@ -111,13 +108,13 @@ function mergeMonarchs(monarchRows: MonarchRow[]) {
 const denormalisedResults = await fetchMonarchs();
 const processedMonarchRows = processMonarchs(denormalisedResults);
 
-await writeFile(
-  "src/data/monarchs.json",
-  JSON.stringify(processedMonarchRows, null, 2),
-  "utf-8"
-);
-console.log("Processed monarch rows:", processedMonarchRows.length);
-console.log(processedMonarchRows.slice(0, 30)); // Display first 5 rows for brevity
-
-// if wikipedia changes the structure of the table, this will break
-// we can use the first row to determine the column indices, but its not too much of an improvement
+try {
+  await writeFile(
+    "src/data/monarchs.json",
+    JSON.stringify(processedMonarchRows, null, 2),
+    "utf-8"
+  );
+  console.log("Monarchs data written to src/data/monarchs.json");
+} catch (error) {
+  console.error("Error writing monarchs.json:", error);
+}

@@ -43,20 +43,3 @@ export const buildDenormalisedRow = (
   const $ = cheerio.load("");
   return $(resultElements);
 };
-
-const testFn = () => {
-  const $ = cheerio.load("<div id='test'>Hello World</div>");
-  const divElement = $("div#test").find("div");
-
-  console.log(divElement.html());
-
-  const cloneElement = divElement.clone();
-
-  console.log(cloneElement.html());
-
-  cloneElement.text("Hello Cheerio");
-  console.log(divElement.text());
-  console.log(cloneElement.text());
-};
-
-testFn();
