@@ -1,6 +1,170 @@
 [
   {
     "country": {
+      "text": "Andorra",
+      "url": "https://en.wikipedia.org/wiki/Andorra"
+    },
+    "title": {
+      "text": "Co-Prince",
+      "url": "https://en.wikipedia.org/wiki/Co-Princes_of_Andorra"
+    },
+    "monarchs": [
+      {
+        "text": "Josep-Lluís Serrano Pentinat",
+        "url": "https://en.wikipedia.org/wiki/Josep-Llu%C3%ADs_Serrano_Pentinat"
+      },
+      {
+        "text": "Emmanuel Macron",
+        "url": "https://en.wikipedia.org/wiki/Emmanuel_Macron"
+      }
+    ]
+  },
+  {
+    "country": {
+      "text": "Antigua and Barbuda",
+      "url": "https://en.wikipedia.org/wiki/Antigua_and_Barbuda"
+    },
+    "title": {
+      "text": "King",
+      "url": "https://en.wikipedia.org/wiki/Commonwealth_realm#Monarch's_role_in_the_realms"
+    },
+    "monarchs": [
+      {
+        "text": "Charles III",
+        "url": "https://en.wikipedia.org/wiki/Charles_III"
+      }
+    ]
+  },
+  {
+    "country": {
+      "text": "Australia",
+      "url": "https://en.wikipedia.org/wiki/Australia"
+    },
+    "title": {
+      "text": "King",
+      "url": "https://en.wikipedia.org/wiki/Commonwealth_realm#Monarch's_role_in_the_realms"
+    },
+    "monarchs": [
+      {
+        "text": "Charles III",
+        "url": "https://en.wikipedia.org/wiki/Charles_III"
+      }
+    ]
+  },
+  {
+    "country": {
+      "text": "The Bahamas",
+      "url": "https://en.wikipedia.org/wiki/The_Bahamas"
+    },
+    "title": {
+      "text": "King",
+      "url": "https://en.wikipedia.org/wiki/Commonwealth_realm#Monarch's_role_in_the_realms"
+    },
+    "monarchs": [
+      {
+        "text": "Charles III",
+        "url": "https://en.wikipedia.org/wiki/Charles_III"
+      }
+    ]
+  },
+  {
+    "country": {
+      "text": "Belize",
+      "url": "https://en.wikipedia.org/wiki/Belize"
+    },
+    "title": {
+      "text": "King",
+      "url": "https://en.wikipedia.org/wiki/Commonwealth_realm#Monarch's_role_in_the_realms"
+    },
+    "monarchs": [
+      {
+        "text": "Charles III",
+        "url": "https://en.wikipedia.org/wiki/Charles_III"
+      }
+    ]
+  },
+  {
+    "country": {
+      "text": "Canada",
+      "url": "https://en.wikipedia.org/wiki/Canada"
+    },
+    "title": {
+      "text": "King",
+      "url": "https://en.wikipedia.org/wiki/Commonwealth_realm#Monarch's_role_in_the_realms"
+    },
+    "monarchs": [
+      {
+        "text": "Charles III",
+        "url": "https://en.wikipedia.org/wiki/Charles_III"
+      }
+    ]
+  },
+  {
+    "country": {
+      "text": "Grenada",
+      "url": "https://en.wikipedia.org/wiki/Grenada"
+    },
+    "title": {
+      "text": "King",
+      "url": "https://en.wikipedia.org/wiki/Commonwealth_realm#Monarch's_role_in_the_realms"
+    },
+    "monarchs": [
+      {
+        "text": "Charles III",
+        "url": "https://en.wikipedia.org/wiki/Charles_III"
+      }
+    ]
+  },
+  {
+    "country": {
+      "text": "Jamaica",
+      "url": "https://en.wikipedia.org/wiki/Jamaica"
+    },
+    "title": {
+      "text": "King",
+      "url": "https://en.wikipedia.org/wiki/Commonwealth_realm#Monarch's_role_in_the_realms"
+    },
+    "monarchs": [
+      {
+        "text": "Charles III",
+        "url": "https://en.wikipedia.org/wiki/Charles_III"
+      }
+    ]
+  },
+  {
+    "country": {
+      "text": "New Zealand",
+      "url": "https://en.wikipedia.org/wiki/New_Zealand"
+    },
+    "title": {
+      "text": "King",
+      "url": "https://en.wikipedia.org/wiki/Commonwealth_realm#Monarch's_role_in_the_realms"
+    },
+    "monarchs": [
+      {
+        "text": "Charles III",
+        "url": "https://en.wikipedia.org/wiki/Charles_III"
+      }
+    ]
+  },
+  {
+    "country": {
+      "text": "Papua New Guinea",
+      "url": "https://en.wikipedia.org/wiki/Papua_New_Guinea"
+    },
+    "title": {
+      "text": "King",
+      "url": "https://en.wikipedia.org/wiki/Commonwealth_realm#Monarch's_role_in_the_realms"
+    },
+    "monarchs": [
+      {
+        "text": "Charles III",
+        "url": "https://en.wikipedia.org/wiki/Charles_III"
+      }
+    ]
+  },
+  {
+    "country": {
       "text": "Saint Kitts and Nevis",
       "url": "https://en.wikipedia.org/wiki/Saint_Kitts_and_Nevis"
     },
@@ -10,7 +174,7 @@
     },
     "monarchs": [
       {
-        "text": "Charles III[b]",
+        "text": "Charles III",
         "url": "https://en.wikipedia.org/wiki/Charles_III"
       }
     ]
@@ -26,7 +190,7 @@
     },
     "monarchs": [
       {
-        "text": "Charles III[b]",
+        "text": "Charles III",
         "url": "https://en.wikipedia.org/wiki/Charles_III"
       }
     ]
@@ -42,7 +206,7 @@
     },
     "monarchs": [
       {
-        "text": "Charles III[b]",
+        "text": "Charles III",
         "url": "https://en.wikipedia.org/wiki/Charles_III"
       }
     ]
@@ -58,7 +222,7 @@
     },
     "monarchs": [
       {
-        "text": "Charles III[b]",
+        "text": "Charles III",
         "url": "https://en.wikipedia.org/wiki/Charles_III"
       }
     ]
@@ -74,7 +238,7 @@
     },
     "monarchs": [
       {
-        "text": "Charles III[b]",
+        "text": "Charles III",
         "url": "https://en.wikipedia.org/wiki/Charles_III"
       }
     ]
@@ -90,7 +254,7 @@
     },
     "monarchs": [
       {
-        "text": "Charles III[b]",
+        "text": "Charles III",
         "url": "https://en.wikipedia.org/wiki/Charles_III"
       }
     ]
@@ -133,7 +297,7 @@
       "url": "https://en.wikipedia.org/wiki/Bhutan"
     },
     "title": {
-      "text": "King[i]",
+      "text": "King",
       "url": "https://en.wikipedia.org/wiki/King_of_Bhutan"
     },
     "monarchs": [
@@ -193,7 +357,7 @@
   },
   {
     "country": {
-      "text": "Eswatini[q]",
+      "text": "Eswatini",
       "url": "https://en.wikipedia.org/wiki/Eswatini"
     },
     "title": {
@@ -209,7 +373,7 @@
   },
   {
     "country": {
-      "text": "Eswatini[q]",
+      "text": "Eswatini",
       "url": "https://en.wikipedia.org/wiki/Eswatini"
     },
     "title": {
@@ -234,7 +398,7 @@
     },
     "monarchs": [
       {
-        "text": "Naruhito[s]",
+        "text": "Naruhito",
         "url": "https://en.wikipedia.org/wiki/Naruhito"
       }
     ]
@@ -325,7 +489,7 @@
       "url": "https://en.wikipedia.org/wiki/Malaysia"
     },
     "title": {
-      "text": "King[ae]",
+      "text": "King",
       "url": "https://en.wikipedia.org/wiki/King_of_Malaysia"
     },
     "monarchs": [
@@ -490,7 +654,7 @@
     },
     "monarchs": [
       {
-        "text": "Vajiralongkorn[ao]",
+        "text": "Rama X, Vajiralongkorn",
         "url": "https://en.wikipedia.org/wiki/Vajiralongkorn"
       }
     ]
@@ -529,7 +693,7 @@
   },
   {
     "country": {
-      "text": "Vatican CityHoly See",
+      "text": "Vatican City (Holy See)",
       "url": "https://en.wikipedia.org/wiki/Vatican_City"
     },
     "title": {
@@ -538,7 +702,7 @@
     },
     "monarchs": [
       {
-        "text": "Leo XIV[au]",
+        "text": "Leo XIV",
         "url": "https://en.wikipedia.org/wiki/Pope_Leo_XIV"
       }
     ]

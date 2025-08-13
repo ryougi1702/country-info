@@ -77,8 +77,9 @@ function processMonarchs(denormalisedResults: Cheerio<Element>[]) {
   const textAndUrlResults: TextAndUrl[][] = denormalisedResults.map(
     (row, index) => {
       return row.toArray().map((el) => {
+        $(el).find("sup").remove();
         const anchorTag = $(el).find("a");
-        const text = anchorTag.text().trim();
+        const text = $(el).text().trim();
         const url = anchorTag.attr("href");
         return {
           text,
@@ -121,7 +122,6 @@ function mergeMonarchs(monarchRows: MonarchRow[]) {
 const denormalisedResults = await fetchMonarchs();
 const processedMonarchRows = processMonarchs(denormalisedResults);
 
-console.log("Processed monarch rows (10):", processedMonarchRows.splice(0, 10));
 try {
   await writeFile(
     "src/data/monarchs.json",
@@ -132,3 +132,6 @@ try {
 } catch (error) {
   console.error("Error writing monarchs.json:", error);
 }
+
+// small "bug" because Vatican City (Holy See) has 2 links, but this only supports 1
+// it still links to vatican city anyway
