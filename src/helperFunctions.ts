@@ -6,7 +6,9 @@ export const prependWikipediaBaseUrl = (url: string) => {
   return `https://en.wikipedia.org${url}`;
 };
 
-export const getNonRowspanIndices = (fullTdArray: Cheerio<Element>) => {
+export const getNonRowspanIndices = (
+  fullTdArray: Cheerio<Element>
+): number[] => {
   const nonRowspanIndice: number[] = [];
 
   fullTdArray.each((index, td) => {
