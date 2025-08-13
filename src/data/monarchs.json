@@ -1,312 +1,546 @@
 [
   {
-    "country": "Andorra",
-    "title": "Co-Prince[a]",
+    "country": {
+      "text": "Saint Kitts and Nevis",
+      "url": "https://en.wikipedia.org/wiki/Saint_Kitts_and_Nevis"
+    },
+    "title": {
+      "text": "King",
+      "url": "https://en.wikipedia.org/wiki/Commonwealth_realm#Monarch's_role_in_the_realms"
+    },
     "monarchs": [
-      "Josep-Lluís Serrano Pentinat",
-      "Emmanuel Macron"
+      {
+        "text": "Charles III[b]",
+        "url": "https://en.wikipedia.org/wiki/Charles_III"
+      }
     ]
   },
   {
-    "country": "Antigua and Barbuda",
-    "title": "King",
+    "country": {
+      "text": "Saint Lucia",
+      "url": "https://en.wikipedia.org/wiki/Saint_Lucia"
+    },
+    "title": {
+      "text": "King",
+      "url": "https://en.wikipedia.org/wiki/Commonwealth_realm#Monarch's_role_in_the_realms"
+    },
     "monarchs": [
-      "Charles III[b]"
+      {
+        "text": "Charles III[b]",
+        "url": "https://en.wikipedia.org/wiki/Charles_III"
+      }
     ]
   },
   {
-    "country": "Australia",
-    "title": "King",
+    "country": {
+      "text": "Saint Vincent and the Grenadines",
+      "url": "https://en.wikipedia.org/wiki/Saint_Vincent_and_the_Grenadines"
+    },
+    "title": {
+      "text": "King",
+      "url": "https://en.wikipedia.org/wiki/Commonwealth_realm#Monarch's_role_in_the_realms"
+    },
     "monarchs": [
-      "Charles III[b]"
+      {
+        "text": "Charles III[b]",
+        "url": "https://en.wikipedia.org/wiki/Charles_III"
+      }
     ]
   },
   {
-    "country": "The Bahamas",
-    "title": "King",
+    "country": {
+      "text": "Solomon Islands",
+      "url": "https://en.wikipedia.org/wiki/Solomon_Islands"
+    },
+    "title": {
+      "text": "King",
+      "url": "https://en.wikipedia.org/wiki/Commonwealth_realm#Monarch's_role_in_the_realms"
+    },
     "monarchs": [
-      "Charles III[b]"
+      {
+        "text": "Charles III[b]",
+        "url": "https://en.wikipedia.org/wiki/Charles_III"
+      }
     ]
   },
   {
-    "country": "Belize",
-    "title": "King",
+    "country": {
+      "text": "Tuvalu",
+      "url": "https://en.wikipedia.org/wiki/Tuvalu"
+    },
+    "title": {
+      "text": "King",
+      "url": "https://en.wikipedia.org/wiki/Commonwealth_realm#Monarch's_role_in_the_realms"
+    },
     "monarchs": [
-      "Charles III[b]"
+      {
+        "text": "Charles III[b]",
+        "url": "https://en.wikipedia.org/wiki/Charles_III"
+      }
     ]
   },
   {
-    "country": "Canada",
-    "title": "King",
+    "country": {
+      "text": "United Kingdom",
+      "url": "https://en.wikipedia.org/wiki/United_Kingdom"
+    },
+    "title": {
+      "text": "King",
+      "url": "https://en.wikipedia.org/wiki/Commonwealth_realm#Monarch's_role_in_the_realms"
+    },
     "monarchs": [
-      "Charles III[b]"
+      {
+        "text": "Charles III[b]",
+        "url": "https://en.wikipedia.org/wiki/Charles_III"
+      }
     ]
   },
   {
-    "country": "Grenada",
-    "title": "King",
+    "country": {
+      "text": "Bahrain",
+      "url": "https://en.wikipedia.org/wiki/Bahrain"
+    },
+    "title": {
+      "text": "King",
+      "url": "https://en.wikipedia.org/wiki/King_of_Bahrain"
+    },
     "monarchs": [
-      "Charles III[b]"
+      {
+        "text": "Hamad bin Isa Al Khalifa",
+        "url": "https://en.wikipedia.org/wiki/Hamad_bin_Isa_Al_Khalifa"
+      }
     ]
   },
   {
-    "country": "Jamaica",
-    "title": "King",
+    "country": {
+      "text": "Belgium",
+      "url": "https://en.wikipedia.org/wiki/Belgium"
+    },
+    "title": {
+      "text": "King",
+      "url": "https://en.wikipedia.org/wiki/Monarchy_of_Belgium"
+    },
     "monarchs": [
-      "Charles III[b]"
+      {
+        "text": "Philippe",
+        "url": "https://en.wikipedia.org/wiki/Philippe_of_Belgium"
+      }
     ]
   },
   {
-    "country": "New Zealand",
-    "title": "King",
+    "country": {
+      "text": "Bhutan",
+      "url": "https://en.wikipedia.org/wiki/Bhutan"
+    },
+    "title": {
+      "text": "King[i]",
+      "url": "https://en.wikipedia.org/wiki/King_of_Bhutan"
+    },
     "monarchs": [
-      "Charles III[b]"
+      {
+        "text": "Jigme Khesar Namgyel Wangchuck",
+        "url": "https://en.wikipedia.org/wiki/Jigme_Khesar_Namgyel_Wangchuck"
+      }
     ]
   },
   {
-    "country": "Papua New Guinea",
-    "title": "King",
+    "country": {
+      "text": "Brunei",
+      "url": "https://en.wikipedia.org/wiki/Brunei"
+    },
+    "title": {
+      "text": "Sultan",
+      "url": "https://en.wikipedia.org/wiki/List_of_sultans_of_Brunei"
+    },
     "monarchs": [
-      "Charles III[b]"
+      {
+        "text": "Hassanal Bolkiah",
+        "url": "https://en.wikipedia.org/wiki/Hassanal_Bolkiah"
+      }
     ]
   },
   {
-    "country": "Saint Kitts and Nevis",
-    "title": "King",
+    "country": {
+      "text": "Cambodia",
+      "url": "https://en.wikipedia.org/wiki/Cambodia"
+    },
+    "title": {
+      "text": "King",
+      "url": "https://en.wikipedia.org/wiki/Monarchy_of_Cambodia"
+    },
     "monarchs": [
-      "Charles III[b]"
+      {
+        "text": "Norodom Sihamoni",
+        "url": "https://en.wikipedia.org/wiki/Norodom_Sihamoni"
+      }
     ]
   },
   {
-    "country": "Saint Lucia",
-    "title": "King",
+    "country": {
+      "text": "Denmark",
+      "url": "https://en.wikipedia.org/wiki/Danish_Realm"
+    },
+    "title": {
+      "text": "King",
+      "url": "https://en.wikipedia.org/wiki/Monarchy_of_Denmark"
+    },
     "monarchs": [
-      "Charles III[b]"
+      {
+        "text": "Frederik X",
+        "url": "https://en.wikipedia.org/wiki/Frederik_X"
+      }
     ]
   },
   {
-    "country": "Saint Vincent and the Grenadines",
-    "title": "King",
+    "country": {
+      "text": "Eswatini[q]",
+      "url": "https://en.wikipedia.org/wiki/Eswatini"
+    },
+    "title": {
+      "text": "King",
+      "url": "https://en.wikipedia.org/wiki/Ngwenyama"
+    },
     "monarchs": [
-      "Charles III[b]"
+      {
+        "text": "Mswati III",
+        "url": "https://en.wikipedia.org/wiki/Mswati_III"
+      }
     ]
   },
   {
-    "country": "Solomon Islands",
-    "title": "King",
+    "country": {
+      "text": "Eswatini[q]",
+      "url": "https://en.wikipedia.org/wiki/Eswatini"
+    },
+    "title": {
+      "text": "Queen Mother",
+      "url": "https://en.wikipedia.org/wiki/Ndlovukati"
+    },
     "monarchs": [
-      "Charles III[b]"
+      {
+        "text": "Ntfombi",
+        "url": "https://en.wikipedia.org/wiki/Ntfombi_of_Eswatini"
+      }
     ]
   },
   {
-    "country": "Tuvalu",
-    "title": "King",
+    "country": {
+      "text": "Japan",
+      "url": "https://en.wikipedia.org/wiki/Japan"
+    },
+    "title": {
+      "text": "Emperor",
+      "url": "https://en.wikipedia.org/wiki/Emperor_of_Japan"
+    },
     "monarchs": [
-      "Charles III[b]"
+      {
+        "text": "Naruhito[s]",
+        "url": "https://en.wikipedia.org/wiki/Naruhito"
+      }
     ]
   },
   {
-    "country": "United Kingdom",
-    "title": "King",
+    "country": {
+      "text": "Jordan",
+      "url": "https://en.wikipedia.org/wiki/Jordan"
+    },
+    "title": {
+      "text": "King",
+      "url": "https://en.wikipedia.org/wiki/List_of_kings_of_Jordan"
+    },
     "monarchs": [
-      "Charles III[b]"
+      {
+        "text": "Abdullah II",
+        "url": "https://en.wikipedia.org/wiki/Abdullah_II_of_Jordan"
+      }
     ]
   },
   {
-    "country": "Bahrain",
-    "title": "King",
+    "country": {
+      "text": "Kuwait",
+      "url": "https://en.wikipedia.org/wiki/Kuwait"
+    },
+    "title": {
+      "text": "Emir",
+      "url": "https://en.wikipedia.org/wiki/Emir_of_Kuwait"
+    },
     "monarchs": [
-      "Hamad bin Isa Al Khalifa"
+      {
+        "text": "Mishal Al-Ahmad Al-Jaber Al-Sabah",
+        "url": "https://en.wikipedia.org/wiki/Mishal_Al-Ahmad_Al-Jaber_Al-Sabah"
+      }
     ]
   },
   {
-    "country": "Belgium",
-    "title": "King",
+    "country": {
+      "text": "Lesotho",
+      "url": "https://en.wikipedia.org/wiki/Lesotho"
+    },
+    "title": {
+      "text": "King",
+      "url": "https://en.wikipedia.org/wiki/List_of_monarchs_of_Lesotho"
+    },
     "monarchs": [
-      "Philippe"
+      {
+        "text": "Letsie III",
+        "url": "https://en.wikipedia.org/wiki/Letsie_III"
+      }
     ]
   },
   {
-    "country": "Bhutan",
-    "title": "King[i]",
+    "country": {
+      "text": "Liechtenstein",
+      "url": "https://en.wikipedia.org/wiki/Liechtenstein"
+    },
+    "title": {
+      "text": "Prince",
+      "url": "https://en.wikipedia.org/wiki/Monarchy_of_Liechtenstein"
+    },
     "monarchs": [
-      "Jigme Khesar Namgyel Wangchuck"
+      {
+        "text": "Hans-Adam II",
+        "url": "https://en.wikipedia.org/wiki/Hans-Adam_II,_Prince_of_Liechtenstein"
+      }
     ]
   },
   {
-    "country": "Brunei",
-    "title": "Sultan",
+    "country": {
+      "text": "Luxembourg",
+      "url": "https://en.wikipedia.org/wiki/Luxembourg"
+    },
+    "title": {
+      "text": "Grand Duke",
+      "url": "https://en.wikipedia.org/wiki/Monarchy_of_Luxembourg"
+    },
     "monarchs": [
-      "Hassanal Bolkiah"
+      {
+        "text": "Henri",
+        "url": "https://en.wikipedia.org/wiki/Henri,_Grand_Duke_of_Luxembourg"
+      }
     ]
   },
   {
-    "country": "Cambodia",
-    "title": "King",
+    "country": {
+      "text": "Malaysia",
+      "url": "https://en.wikipedia.org/wiki/Malaysia"
+    },
+    "title": {
+      "text": "King[ae]",
+      "url": "https://en.wikipedia.org/wiki/King_of_Malaysia"
+    },
     "monarchs": [
-      "Norodom Sihamoni"
+      {
+        "text": "Sultan Ibrahim III",
+        "url": "https://en.wikipedia.org/wiki/Ibrahim_Iskandar_of_Johor"
+      }
     ]
   },
   {
-    "country": "Denmark",
-    "title": "King",
+    "country": {
+      "text": "Monaco",
+      "url": "https://en.wikipedia.org/wiki/Monaco"
+    },
+    "title": {
+      "text": "Prince",
+      "url": "https://en.wikipedia.org/wiki/Monarchy_of_Monaco"
+    },
     "monarchs": [
-      "Frederik X"
+      {
+        "text": "Albert II",
+        "url": "https://en.wikipedia.org/wiki/Albert_II,_Prince_of_Monaco"
+      }
     ]
   },
   {
-    "country": "Eswatini[q]",
-    "title": "King",
+    "country": {
+      "text": "Morocco",
+      "url": "https://en.wikipedia.org/wiki/Morocco"
+    },
+    "title": {
+      "text": "King",
+      "url": "https://en.wikipedia.org/wiki/King_of_Morocco"
+    },
     "monarchs": [
-      "Mswati III"
+      {
+        "text": "Mohammed VI",
+        "url": "https://en.wikipedia.org/wiki/Mohammed_VI_of_Morocco"
+      }
     ]
   },
   {
-    "country": "Eswatini[q]",
-    "title": "Queen Mother",
+    "country": {
+      "text": "Netherlands",
+      "url": "https://en.wikipedia.org/wiki/Kingdom_of_the_Netherlands"
+    },
+    "title": {
+      "text": "King",
+      "url": "https://en.wikipedia.org/wiki/Monarchy_of_the_Netherlands"
+    },
     "monarchs": [
-      "Ntfombi"
+      {
+        "text": "Willem-Alexander",
+        "url": "https://en.wikipedia.org/wiki/Willem-Alexander_of_the_Netherlands"
+      }
     ]
   },
   {
-    "country": "Japan",
-    "title": "Emperor",
+    "country": {
+      "text": "Norway",
+      "url": "https://en.wikipedia.org/wiki/Norway"
+    },
+    "title": {
+      "text": "King",
+      "url": "https://en.wikipedia.org/wiki/Monarchy_of_Norway"
+    },
     "monarchs": [
-      "Naruhito[s]"
+      {
+        "text": "Harald V",
+        "url": "https://en.wikipedia.org/wiki/Harald_V_of_Norway"
+      }
     ]
   },
   {
-    "country": "Jordan",
-    "title": "King",
+    "country": {
+      "text": "Oman",
+      "url": "https://en.wikipedia.org/wiki/Oman"
+    },
+    "title": {
+      "text": "Sultan",
+      "url": "https://en.wikipedia.org/wiki/List_of_rulers_of_Oman"
+    },
     "monarchs": [
-      "Abdullah II"
+      {
+        "text": "Haitham bin Tariq",
+        "url": "https://en.wikipedia.org/wiki/Haitham_bin_Tariq"
+      }
     ]
   },
   {
-    "country": "Kuwait",
-    "title": "Emir",
+    "country": {
+      "text": "Qatar",
+      "url": "https://en.wikipedia.org/wiki/Qatar"
+    },
+    "title": {
+      "text": "Emir",
+      "url": "https://en.wikipedia.org/wiki/Emir_of_Qatar"
+    },
     "monarchs": [
-      "Mishal Al-Ahmad Al-Jaber Al-Sabah"
+      {
+        "text": "Tamim bin Hamad Al Thani",
+        "url": "https://en.wikipedia.org/wiki/Tamim_bin_Hamad_Al_Thani"
+      }
     ]
   },
   {
-    "country": "Lesotho",
-    "title": "King",
+    "country": {
+      "text": "Saudi Arabia",
+      "url": "https://en.wikipedia.org/wiki/Saudi_Arabia"
+    },
+    "title": {
+      "text": "King",
+      "url": "https://en.wikipedia.org/wiki/King_of_Saudi_Arabia"
+    },
     "monarchs": [
-      "Letsie III"
+      {
+        "text": "Salman",
+        "url": "https://en.wikipedia.org/wiki/Salman_of_Saudi_Arabia"
+      }
     ]
   },
   {
-    "country": "Liechtenstein",
-    "title": "Prince",
+    "country": {
+      "text": "Spain",
+      "url": "https://en.wikipedia.org/wiki/Spain"
+    },
+    "title": {
+      "text": "King",
+      "url": "https://en.wikipedia.org/wiki/Monarchy_of_Spain"
+    },
     "monarchs": [
-      "Hans-Adam II"
+      {
+        "text": "Felipe VI",
+        "url": "https://en.wikipedia.org/wiki/Felipe_VI"
+      }
     ]
   },
   {
-    "country": "Luxembourg",
-    "title": "Grand Duke",
+    "country": {
+      "text": "Sweden",
+      "url": "https://en.wikipedia.org/wiki/Sweden"
+    },
+    "title": {
+      "text": "King",
+      "url": "https://en.wikipedia.org/wiki/Monarchy_of_Sweden"
+    },
     "monarchs": [
-      "Henri"
+      {
+        "text": "Carl XVI Gustaf",
+        "url": "https://en.wikipedia.org/wiki/Carl_XVI_Gustaf"
+      }
     ]
   },
   {
-    "country": "Malaysia",
-    "title": "King[ae]",
+    "country": {
+      "text": "Thailand",
+      "url": "https://en.wikipedia.org/wiki/Thailand"
+    },
+    "title": {
+      "text": "King",
+      "url": "https://en.wikipedia.org/wiki/Monarchy_of_Thailand"
+    },
     "monarchs": [
-      "Sultan Ibrahim III"
+      {
+        "text": "Vajiralongkorn[ao]",
+        "url": "https://en.wikipedia.org/wiki/Vajiralongkorn"
+      }
     ]
   },
   {
-    "country": "Monaco",
-    "title": "Prince",
+    "country": {
+      "text": "Tonga",
+      "url": "https://en.wikipedia.org/wiki/Tonga"
+    },
+    "title": {
+      "text": "King",
+      "url": "https://en.wikipedia.org/wiki/List_of_monarchs_of_Tonga"
+    },
     "monarchs": [
-      "Albert II"
+      {
+        "text": "Tupou VI",
+        "url": "https://en.wikipedia.org/wiki/Tupou_VI"
+      }
     ]
   },
   {
-    "country": "Morocco",
-    "title": "King",
+    "country": {
+      "text": "United Arab Emirates",
+      "url": "https://en.wikipedia.org/wiki/United_Arab_Emirates"
+    },
+    "title": {
+      "text": "President",
+      "url": "https://en.wikipedia.org/wiki/President_of_the_United_Arab_Emirates"
+    },
     "monarchs": [
-      "Mohammed VI"
+      {
+        "text": "Mohamed bin Zayed Al Nahyan",
+        "url": "https://en.wikipedia.org/wiki/Mohamed_bin_Zayed_Al_Nahyan"
+      }
     ]
   },
   {
-    "country": "Netherlands",
-    "title": "King",
+    "country": {
+      "text": "Vatican CityHoly See",
+      "url": "https://en.wikipedia.org/wiki/Vatican_City"
+    },
+    "title": {
+      "text": "Pope",
+      "url": "https://en.wikipedia.org/wiki/Pope"
+    },
     "monarchs": [
-      "Willem-Alexander"
-    ]
-  },
-  {
-    "country": "Norway",
-    "title": "King",
-    "monarchs": [
-      "Harald V"
-    ]
-  },
-  {
-    "country": "Oman",
-    "title": "Sultan",
-    "monarchs": [
-      "Haitham bin Tariq"
-    ]
-  },
-  {
-    "country": "Qatar",
-    "title": "Emir",
-    "monarchs": [
-      "Tamim bin Hamad Al Thani"
-    ]
-  },
-  {
-    "country": "Saudi Arabia",
-    "title": "King",
-    "monarchs": [
-      "Salman"
-    ]
-  },
-  {
-    "country": "Spain",
-    "title": "King",
-    "monarchs": [
-      "Felipe VI"
-    ]
-  },
-  {
-    "country": "Sweden",
-    "title": "King",
-    "monarchs": [
-      "Carl XVI Gustaf"
-    ]
-  },
-  {
-    "country": "Thailand",
-    "title": "King",
-    "monarchs": [
-      "Rama X",
-      "Vajiralongkorn[ao]"
-    ]
-  },
-  {
-    "country": "Tonga",
-    "title": "King",
-    "monarchs": [
-      "Tupou VI"
-    ]
-  },
-  {
-    "country": "United Arab Emirates",
-    "title": "President",
-    "monarchs": [
-      "Mohamed bin Zayed Al Nahyan"
-    ]
-  },
-  {
-    "country": "Vatican City (Holy See)",
-    "title": "Pope",
-    "monarchs": [
-      "Leo XIV[au]"
+      {
+        "text": "Leo XIV[au]",
+        "url": "https://en.wikipedia.org/wiki/Pope_Leo_XIV"
+      }
     ]
   }
 ]

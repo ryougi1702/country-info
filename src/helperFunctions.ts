@@ -1,6 +1,11 @@
 import type { Cheerio } from "cheerio";
 import { Element } from "domhandler";
 import * as cheerio from "cheerio";
+
+export const prependWikipediaBaseUrl = (url: string) => {
+  return `https://en.wikipedia.org${url}`;
+};
+
 export const getNonRowspanIndices = (fullTdArray: Cheerio<Element>) => {
   const nonRowspanIndice: number[] = [];
 

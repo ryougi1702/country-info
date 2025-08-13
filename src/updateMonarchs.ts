@@ -4,15 +4,20 @@ import type { WikipediaParseResponse } from "./types.js";
 import {
   buildDenormalisedRow,
   getNonRowspanIndices,
+  prependWikipediaBaseUrl,
 } from "./helperFunctions.js";
 import type { Element } from "domhandler";
 import type { Cheerio } from "cheerio";
 import { writeFile } from "fs/promises";
 
+type TextAndUrl = {
+  text: string;
+  url: string | undefined;
+};
 type MonarchRow = {
-  country: string;
-  title: string;
-  monarchs: string[];
+  country: TextAndUrl;
+  title: TextAndUrl;
+  monarchs: TextAndUrl[];
 };
 let titleColIndex = 0;
 let monarchColIndex = 1;
@@ -69,16 +74,24 @@ async function fetchMonarchs() {
 
 function processMonarchs(denormalisedResults: Cheerio<Element>[]) {
   const $ = cheerio.load("");
-  const stringArrayedResults: string[][] = denormalisedResults.map(
+  const textAndUrlResults: TextAndUrl[][] = denormalisedResults.map(
     (row, index) => {
-      return row.toArray().map((el) => $(el).text().trim());
+      return row.toArray().map((el) => {
+        const anchorTag = $(el).find("a");
+        const text = anchorTag.text().trim();
+        const url = anchorTag.attr("href");
+        return {
+          text,
+          url: url ? prependWikipediaBaseUrl(url) : undefined,
+        } as TextAndUrl;
+      });
     }
   );
 
-  const monarchRows = stringArrayedResults.map((row) => {
+  const monarchRows = textAndUrlResults.map((row) => {
     const country = row[countryColIndex];
     const title = row[titleColIndex];
-    const monarchs = row[monarchColIndex]?.split(",").map((m) => m.trim());
+    const monarchs = [row[monarchColIndex]];
     return { country, title, monarchs } as MonarchRow;
   });
 
@@ -91,15 +104,15 @@ function mergeMonarchs(monarchRows: MonarchRow[]) {
 
   const mergedMonarchs: MonarchRow[] = [];
   for (const row of monarchRows) {
-    if (row.country === lastCountry && row.title === lastTitle) {
+    if (row.country.text === lastCountry && row.title.text === lastTitle) {
       // Merge monarchs if country and title are the same
       const lastRow = mergedMonarchs[mergedMonarchs.length - 1] as MonarchRow;
       lastRow.monarchs.push(...row.monarchs);
     } else {
       // Add new row
       mergedMonarchs.push({ ...row });
-      lastCountry = row.country;
-      lastTitle = row.title;
+      lastCountry = row.country.text;
+      lastTitle = row.title.text;
     }
   }
   return mergedMonarchs;
@@ -108,6 +121,7 @@ function mergeMonarchs(monarchRows: MonarchRow[]) {
 const denormalisedResults = await fetchMonarchs();
 const processedMonarchRows = processMonarchs(denormalisedResults);
 
+console.log("Processed monarch rows (10):", processedMonarchRows.splice(0, 10));
 try {
   await writeFile(
     "src/data/monarchs.json",
