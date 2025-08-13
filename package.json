@@ -1,0 +1,25 @@
+{
+  "name": "country-info",
+  "version": "1.0.0",
+  "description": "parsing country info from wikipedia",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "cheerio": "^1.1.2",
+    "domhandler": "^5.0.3",
+    "node-fetch": "^3.3.2"
+  },
+  "devDependencies": {
+    "@types/cheerio": "^0.22.35",
+    "@types/domhandler": "^2.4.5",
+    "@types/node": "^24.2.1",
+    "@types/node-fetch": "^2.6.13",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.2"
+  }
+}

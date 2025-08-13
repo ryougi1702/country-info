@@ -1,0 +1,312 @@
+[
+  {
+    "country": "Andorra",
+    "title": "Co-Prince[a]",
+    "monarchs": [
+      "Josep-Lluís Serrano Pentinat",
+      "Emmanuel Macron"
+    ]
+  },
+  {
+    "country": "Antigua and Barbuda",
+    "title": "King",
+    "monarchs": [
+      "Charles III[b]"
+    ]
+  },
+  {
+    "country": "Australia",
+    "title": "King",
+    "monarchs": [
+      "Charles III[b]"
+    ]
+  },
+  {
+    "country": "The Bahamas",
+    "title": "King",
+    "monarchs": [
+      "Charles III[b]"
+    ]
+  },
+  {
+    "country": "Belize",
+    "title": "King",
+    "monarchs": [
+      "Charles III[b]"
+    ]
+  },
+  {
+    "country": "Canada",
+    "title": "King",
+    "monarchs": [
+      "Charles III[b]"
+    ]
+  },
+  {
+    "country": "Grenada",
+    "title": "King",
+    "monarchs": [
+      "Charles III[b]"
+    ]
+  },
+  {
+    "country": "Jamaica",
+    "title": "King",
+    "monarchs": [
+      "Charles III[b]"
+    ]
+  },
+  {
+    "country": "New Zealand",
+    "title": "King",
+    "monarchs": [
+      "Charles III[b]"
+    ]
+  },
+  {
+    "country": "Papua New Guinea",
+    "title": "King",
+    "monarchs": [
+      "Charles III[b]"
+    ]
+  },
+  {
+    "country": "Saint Kitts and Nevis",
+    "title": "King",
+    "monarchs": [
+      "Charles III[b]"
+    ]
+  },
+  {
+    "country": "Saint Lucia",
+    "title": "King",
+    "monarchs": [
+      "Charles III[b]"
+    ]
+  },
+  {
+    "country": "Saint Vincent and the Grenadines",
+    "title": "King",
+    "monarchs": [
+      "Charles III[b]"
+    ]
+  },
+  {
+    "country": "Solomon Islands",
+    "title": "King",
+    "monarchs": [
+      "Charles III[b]"
+    ]
+  },
+  {
+    "country": "Tuvalu",
+    "title": "King",
+    "monarchs": [
+      "Charles III[b]"
+    ]
+  },
+  {
+    "country": "United Kingdom",
+    "title": "King",
+    "monarchs": [
+      "Charles III[b]"
+    ]
+  },
+  {
+    "country": "Bahrain",
+    "title": "King",
+    "monarchs": [
+      "Hamad bin Isa Al Khalifa"
+    ]
+  },
+  {
+    "country": "Belgium",
+    "title": "King",
+    "monarchs": [
+      "Philippe"
+    ]
+  },
+  {
+    "country": "Bhutan",
+    "title": "King[i]",
+    "monarchs": [
+      "Jigme Khesar Namgyel Wangchuck"
+    ]
+  },
+  {
+    "country": "Brunei",
+    "title": "Sultan",
+    "monarchs": [
+      "Hassanal Bolkiah"
+    ]
+  },
+  {
+    "country": "Cambodia",
+    "title": "King",
+    "monarchs": [
+      "Norodom Sihamoni"
+    ]
+  },
+  {
+    "country": "Denmark",
+    "title": "King",
+    "monarchs": [
+      "Frederik X"
+    ]
+  },
+  {
+    "country": "Eswatini[q]",
+    "title": "King",
+    "monarchs": [
+      "Mswati III"
+    ]
+  },
+  {
+    "country": "Eswatini[q]",
+    "title": "Queen Mother",
+    "monarchs": [
+      "Ntfombi"
+    ]
+  },
+  {
+    "country": "Japan",
+    "title": "Emperor",
+    "monarchs": [
+      "Naruhito[s]"
+    ]
+  },
+  {
+    "country": "Jordan",
+    "title": "King",
+    "monarchs": [
+      "Abdullah II"
+    ]
+  },
+  {
+    "country": "Kuwait",
+    "title": "Emir",
+    "monarchs": [
+      "Mishal Al-Ahmad Al-Jaber Al-Sabah"
+    ]
+  },
+  {
+    "country": "Lesotho",
+    "title": "King",
+    "monarchs": [
+      "Letsie III"
+    ]
+  },
+  {
+    "country": "Liechtenstein",
+    "title": "Prince",
+    "monarchs": [
+      "Hans-Adam II"
+    ]
+  },
+  {
+    "country": "Luxembourg",
+    "title": "Grand Duke",
+    "monarchs": [
+      "Henri"
+    ]
+  },
+  {
+    "country": "Malaysia",
+    "title": "King[ae]",
+    "monarchs": [
+      "Sultan Ibrahim III"
+    ]
+  },
+  {
+    "country": "Monaco",
+    "title": "Prince",
+    "monarchs": [
+      "Albert II"
+    ]
+  },
+  {
+    "country": "Morocco",
+    "title": "King",
+    "monarchs": [
+      "Mohammed VI"
+    ]
+  },
+  {
+    "country": "Netherlands",
+    "title": "King",
+    "monarchs": [
+      "Willem-Alexander"
+    ]
+  },
+  {
+    "country": "Norway",
+    "title": "King",
+    "monarchs": [
+      "Harald V"
+    ]
+  },
+  {
+    "country": "Oman",
+    "title": "Sultan",
+    "monarchs": [
+      "Haitham bin Tariq"
+    ]
+  },
+  {
+    "country": "Qatar",
+    "title": "Emir",
+    "monarchs": [
+      "Tamim bin Hamad Al Thani"
+    ]
+  },
+  {
+    "country": "Saudi Arabia",
+    "title": "King",
+    "monarchs": [
+      "Salman"
+    ]
+  },
+  {
+    "country": "Spain",
+    "title": "King",
+    "monarchs": [
+      "Felipe VI"
+    ]
+  },
+  {
+    "country": "Sweden",
+    "title": "King",
+    "monarchs": [
+      "Carl XVI Gustaf"
+    ]
+  },
+  {
+    "country": "Thailand",
+    "title": "King",
+    "monarchs": [
+      "Rama X",
+      "Vajiralongkorn[ao]"
+    ]
+  },
+  {
+    "country": "Tonga",
+    "title": "King",
+    "monarchs": [
+      "Tupou VI"
+    ]
+  },
+  {
+    "country": "United Arab Emirates",
+    "title": "President",
+    "monarchs": [
+      "Mohamed bin Zayed Al Nahyan"
+    ]
+  },
+  {
+    "country": "Vatican City (Holy See)",
+    "title": "Pope",
+    "monarchs": [
+      "Leo XIV[au]"
+    ]
+  }
+]
